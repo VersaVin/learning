@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to right, #636363, #a2ab58);
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background: black;
+    
+}
+li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    font-family: 'Reggae One', cursive;
+}
+li{
+    float: left;
+}
+li a:hover{
+    background: white;
+    color:black;
+}
+#V{
+    color: white;
+    float: right;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    font-family: 'Reggae One', cursive;
+}
